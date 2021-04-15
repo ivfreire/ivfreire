@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+<img src="atom.png" width="150px" align="right"/>
+
 I am Ícaro Freire, a Physics undergraduate student at the University of São Paulo in Brazil. I like problem-solving puzzles and computing. ⚛️💻️
 
 <!--
