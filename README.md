@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+I am Ícaro Freire, a Physics undergraduate student at the University of São Paulo in Brazil. I like problem-solving puzzles and computing. ⚛️💻️
 
 <!--
 **ivfreire/ivfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
