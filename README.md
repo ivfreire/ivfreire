@@ -9,6 +9,7 @@ I am [Ícaro Freire](https://icarofreire.com/), a Physics BSc stdent student at 
 {
   "about-me": {
     "portfolio": 	"https://icarofreire.com/",
+    "twitter": 	        "ovfreire",
     "hobbies": [
       "🎮️ gaming",
       "🎮️ gamedev",
