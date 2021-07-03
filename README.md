@@ -2,7 +2,7 @@
 
 <img src="atom.png" width="150px" align="right"/>
 
-I am [Ícaro Freire](https://icarofreire.com/), a Physics BSc student student at the University of São Paulo, in Brazil, and an assiduous computing enthusiast, I also like problem-solving puzzles, algo-dev challenges and having fun hacking stuff around.  ⚛️💻️
+Hey there! I am an undergrad Physics student student at the University of São Paulo, in Brazil, and an assiduous computing enthusiast, I also like problem-solving puzzles, algo-dev challenges and having fun hacking stuff around.  ⚛️💻️
 
 
 ```json
