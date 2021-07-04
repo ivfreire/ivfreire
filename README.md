@@ -4,7 +4,6 @@
 
 Hey there! I am an undergrad Physics student at the University of São Paulo, in Brazil, and an assiduous computing enthusiast, I also like problem-solving puzzles, algo-dev challenges and having fun hacking stuff around.  ⚛️💻️
 
-
 ```json
 {
   "about-me": {
@@ -23,3 +22,6 @@ Hey there! I am an undergrad Physics student at the University of São Paulo, in
   }
 }
 ```
+
+#### My stats
+<img src="https://github-readme-stats.vercel.app/api/?username=ivfreire&show_icons=true&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=151515">
