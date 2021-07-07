@@ -6,14 +6,14 @@ Hey there dear human, I am Ícaro, from Brazil. Presently, I am a Physics underg
 
 My favourite leisure activities include watching cartoons and films, listening to music, reading and gaming.
 
-<img src="images/sao_paulo.jpg" width="100%" title="São Paulo city, Itaim Bibi neighborhood">
-
 ### More on me
 
 - 🏙️ I live in São Paulo.
 - 🤖️ I am learning machine-learning.
 - 💻️ My favourite language is C.
 - 🇮🇹️ I am learning Italian.
+
+<img src="images/sao_paulo.jpg" alt="São Paulo city, Itaim Bibi neighborhood" title="São Paulo" width="100%">
 
 ### Stats
 <img width="50%" src="https://github-readme-stats.vercel.app/api/?username=ivfreire&show_icons=true&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=151515">
