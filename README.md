@@ -8,9 +8,6 @@ My favourite leisure activities include watching cartoons and films, listening t
 
 In my spate time I usually enjoy some retrogaming and hacking around with old (vintage) tech. Currently I am learning how to develop NES games in Assembly and it has been pretty fun.
 
-### Highlights
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535">
-
 ### Favourite technologies
 
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="GNU/Linux"></a>
@@ -18,6 +15,9 @@ In my spate time I usually enjoy some retrogaming and hacking around with old (v
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"></a>
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"></a>
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></a>
+
+### Highlights
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535">
 
 ## More on me
 
