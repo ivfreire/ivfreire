@@ -17,7 +17,7 @@ In my spate time I usually enjoy some retrogaming and hacking around with old (v
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></a>
 
 ### Highlights
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535">
+<a href="https://github.com/ivfreire/nes-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535"></a>
 
 ## More on me
 
