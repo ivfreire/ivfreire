@@ -6,7 +6,7 @@ Hey there, dear human! I am Ícaro, from Brazil. Presently, I am a Physics under
 
 My favourite leisure activities include watching cartoons and films, listening to music, reading and gaming.
 
-In my spate time I usually enjoy some retrogaming and hacking around with old (vintage) tech. Currently I am learning how to develop NES games in Assembly and it has been pretty fun.
+In my spare time I usually enjoy some retrogaming and hacking around with old (vintage) tech. Currently I am learning how to develop NES games in Assembly and it has been pretty fun.
 
 ### Favourite technologies
 
