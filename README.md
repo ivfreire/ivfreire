@@ -2,7 +2,7 @@
 
 <img src="images/atom.png" width="150px" align="right" title="Atom"/>
 
-Hey there, dear human! I am Ícaro, from Brazil. Presently, I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and an intern at the Centre for Computing at IF-USP. I am also volunteering at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab at the Institute of Physics.
+Hey there, dear human! I am Ícaro, from Brazil. Presently I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and an intern at the Centre for Computing at IF-USP. I am also volunteering at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab at the Institute of Physics.
 
 My favourite leisure activities include watching cartoons and films, listening to music, reading and gaming.
 
@@ -19,7 +19,7 @@ In my spare time I usually enjoy some retrogaming and hacking around with old (v
 ### Highlights
 <a href="https://github.com/ivfreire/nes-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535"></a>
 
-## More on me
+## Learn more about me
 
 - 🏙️ I live in São Paulo.
 - 🤖️ I am learning machine-learning.
@@ -37,21 +37,15 @@ In my spare time I usually enjoy some retrogaming and hacking around with old (v
 #define GHPAGES "https://ivfreire.github.com/"
 #define LINKEDIN "https://www.linkedin.com/in/ivfreire/"
 #define DEVTO "https://dev.to/ivfreire"
-#define TWITTER "@ovfreire"
 #define INSTAGRAM "@ivfreire"
 
 int main() {
-  // Code copied from StackOverflow comes here...
+  // Code from StackOverflow comes here...
   return 0;
 }
 
 #endif
 ```
-
-<!--
-## Feel free to contact me on
--->
-
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=ivfreire&show_icons=true&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535">
