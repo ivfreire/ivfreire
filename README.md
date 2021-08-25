@@ -37,7 +37,7 @@ In my spare time I usually enjoy some retrogaming and hacking around with old (v
 #define GHPAGES "https://ivfreire.github.com/"
 #define LINKEDIN "https://www.linkedin.com/in/ivfreire/"
 #define DEVTO "https://dev.to/ivfreire"
-#define INSTAGRAM "@ivfreire
+#define INSTAGRAM "@ivfreire"
 #define EMAIL "ivfreire@outlook.com"
 
 int main() {
