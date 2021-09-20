@@ -2,7 +2,7 @@
 
 <img src="images/atom.png" width="150px" align="right" title="Atom"/>
 
-Hey there, dear human! I am Ícaro, from Brazil. Presently I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and an intern at the Centre for Computing at IF-USP. I am also volunteering at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab at the Institute of Physics.
+Hey there, dear human! I am Ícaro, from Brazil. Presently I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and a  volunteer at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab at the Institute of Physics.
 
 My favourite leisure activities include watching cartoons and films, listening to music, reading and gaming.
 
