@@ -4,10 +4,6 @@
 
 Hey there, dear human! I am Ícaro, from Brazil. Presently I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and a  volunteer at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab at the Institute of Physics.
 
-My favourite leisure activities include watching cartoons and films, listening to music, reading and gaming.
-
-In my spare time I usually enjoy some retrogaming and hacking around with old (vintage) tech. Currently I am learning how to develop NES games in Assembly and it has been pretty fun.
-
 ### Favourite technologies
 
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="GNU/Linux"></a>
