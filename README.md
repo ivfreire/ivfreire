@@ -29,7 +29,6 @@ Hey there, dear human! I am Ícaro, from Brazil. Presently I am a Physics underg
 #ifndef MAIN
 #define MAIN
 
-#define PORTFOLIO "https://icarofreire.com/"
 #define GHPAGES "https://ivfreire.github.com/"
 #define LINKEDIN "https://www.linkedin.com/in/ivfreire/"
 #define DEVTO "https://dev.to/ivfreire"
