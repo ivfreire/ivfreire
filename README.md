@@ -4,6 +4,8 @@
 
 Hello there! My name is Ícaro, I a 20 years-old tech enthusiast and part-time hacker from São Paulo, Brazil! Currently I am a Physics undergrad student at the [University of São Paulo](https://www5.usp.br/) and an undergraduate researcher at the [Institute of Astronomy at USP](https://www.iag.usp.br/). I also volunteer at the [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab and extension project on campus.
 
+Well, that's it. I hope you can find anything interesting or useful to you in here. Feel free to contact me if needed!
+
 ### Favourite technologies
 
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="GNU/Linux"></a>
@@ -12,15 +14,16 @@ Hello there! My name is Ícaro, I a 20 years-old tech enthusiast and part-time h
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"></a>
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></a>
 
+<!--
 ### Highlights
 <a href="https://github.com/ivfreire/nes-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535"></a>
+-->
 
 ## Learn more about me
 
 - 🏙️ I live in São Paulo.
 - 🤖️ I am learning machine-learning.
 - 💻️ My favourite language is C.
-- 🇮🇹️ I am learning Italian.
 
 <br>
 <img src="images/sao_paulo.jpg" alt="São Paulo city, Itaim Bibi neighborhood" title="São Paulo" width="100%">
