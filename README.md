@@ -14,9 +14,6 @@ Well, that's it. I hope you can find anything interesting or useful to you in he
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"></a>
 <a href=""><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></a>
 
-### More stuff
-[<img src="https://www.hackthebox.com/badge/image/160142"/>](https://www.hackthebox.eu/home/users/profile/160142)
-
 <!--
 ### Highlights
 <a href="https://github.com/ivfreire/nes-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ivfreire&repo=nes-game&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535"></a>
@@ -48,6 +45,9 @@ int main() {
 
 #endif
 ```
+
+## Additional stuff
+[<img src="https://www.hackthebox.com/badge/image/160142"/>](https://www.hackthebox.eu/home/users/profile/160142)
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=ivfreire&show_icons=true&title_color=0099CC&icon_color=EEEEEE&text_color=FFFFFF&bg_color=353535">
