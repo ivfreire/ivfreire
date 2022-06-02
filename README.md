@@ -2,7 +2,7 @@
 
 <img src="images/atom.png" width="150px" align="right" title="Atom"/>
 
-I am a 20 years-old tech enthusiast from São Paulo, Brazil. Currently I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an undergraduate researcher at the [Institute of Astronomy at USP](https://www.iag.usp.br/). I also volunteer at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab and extension project on campus.
+I am a 20 years-old tech enthusiast based in São Paulo, Brazil. Presently, I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an undergraduate researcher at the [Institute of Astronomy at USP](https://www.iag.usp.br/) and at the [Nuclear and Energy Research Institute IPEN/CNEN](https://www.ipen.br). Also, I volunteer at [Hackerspace IFUSP](https://www2.if.usp.br/~hackersp), an open-source lab and extension project on campus.
 
 <!--
 ### Favourite technologies
