@@ -1,6 +1,6 @@
 # Hello world 🌎️
 
-<img src="images/atom.png" width="150px" align="right" title="Atom"/>
+<!-- <img src="images/atom.png" width="150px" align="right" title="Atom"/> -->
 
 Currently, I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an undergraduate researcher at the [Institute of Energy and Nuclear Research - IPEN/CNEN](https://www.ipen.br).
 
