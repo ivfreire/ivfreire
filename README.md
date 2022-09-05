@@ -2,7 +2,7 @@
 
 <!-- <img src="images/atom.png" width="150px" align="right" title="Atom"/> -->
 
-Currently, I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an undergraduate researcher at the [Institute of Energy and Nuclear Research - IPEN/CNEN](https://www.ipen.br).
+Currently, I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an intern at the [Institute of Energy and Nuclear Research - IPEN/CNEN](https://www.ipen.br).
 
 <br>
 <img src="images/sao_paulo.jpg" alt="São Paulo city, Itaim Bibi neighborhood" title="São Paulo" width="100%">
