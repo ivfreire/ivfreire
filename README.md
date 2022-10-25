@@ -2,7 +2,7 @@
 
 <!-- <img src="images/atom.png" width="150px" align="right" title="Atom"/> -->
 
-Hey! I am a coder and tech enthusiast based in São Paulo, Brazil. I am a senior year Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an intern at [IPEN - IPEN/CNEN](https://www.ipen.br).
+Hey! I am a coder and tech enthusiast based in São Paulo, Brazil. I am a senior year Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an intern at the [Nuclear & Energy Research Institute - IPEN/CNEN](https://www.ipen.br).
 I have always had a passion for science and technology. In my free time, I like developing personal projects, hacking around, and participating in CTF competitions.
 
 ```c
