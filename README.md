@@ -2,8 +2,12 @@
 
 <!-- <img src="images/atom.png" width="150px" align="right" title="Atom"/> -->
 
-Hey! I am a coder and tech enthusiast based in São Paulo, Brazil. I am a senior year Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and an intern at the [Nuclear & Energy Research Institute - IPEN/CNEN](https://www.ipen.br).
-I have always had a passion for science and technology. In my free time, I like developing personal projects, hacking around, and participating in CTF competitions.
+I am a student, coder and tech enthusiast based in São Paulo, Brazil. Currently, I am a senior year Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and a research intern at the [Nuclear & Energy Research Institute - IPEN/CNEN](https://www.ipen.br). I work with computational modeling and simulation of repositories for radioactive waste disposal.
+
+I always have had a passion for science and technology. In spare time, I like working on personal projects, hacking around, learning new stuff, and participating in CTF competitions and challenges.
+
+[More about me!](https://ivfreire.github.io/)
+
 
 ```c
 #ifndef MAIN
