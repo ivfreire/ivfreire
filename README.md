@@ -1,13 +1,6 @@
 # Hello world 🌎️
 
-<!-- <img src="images/atom.png" width="150px" align="right" title="Atom"/> -->
-
-I am a student, coder and tech enthusiast based in São Paulo, Brazil. Currently, I am a senior year Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and a research intern at the [Nuclear & Energy Research Institute - IPEN/CNEN](https://www.ipen.br). I work with computational modeling and simulation of repositories for radioactive waste disposal.
-
-I always have had a passion for science and technology. In spare time, I like working on personal projects, hacking around, learning new stuff, and participating in CTF competitions and challenges.
-
-[More about me!](https://ivfreire.github.io/)
-
+Currently, I am a Physics undergraduate student at the [University of São Paulo](https://www5.usp.br/) and a research intern at the [Nuclear & Energy Research Institute - IPEN/CNEN](https://www.ipen.br). I work with computational modeling, simulation and 3D visualization of repositories for radioactive waste disposal. Also have experience in data analysis & software development.
 
 ```c
 #ifndef MAIN
@@ -15,9 +8,8 @@ I always have had a passion for science and technology. In spare time, I like wo
 
 #define GHPAGES "https://ivfreire.github.com/"
 #define LINKEDIN "https://www.linkedin.com/in/ivfreire/"
-#define DEVTO "https://dev.to/ivfreire"
-#define INSTAGRAM "@ivfreire"
-#define EMAIL "ivfreire@outlook.com"
+#define EMAIL "ivfreire@usp.br"
+#define EMAIL "icaro.f@ipen.br"
 
 int main() {
   // Code from StackOverflow comes here...
