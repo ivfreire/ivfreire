@@ -1,6 +1,6 @@
 # Hey there 👋️
 
-I am a research intern at the [Nuclear & Energy Research Institute](https://www.ipen.br) and a senior year undergraduate Physics student at the [University of São Paulo](https://www.usp.br). I am currently working with computational modeling, simulation and data visualization in the radioactive waste management industry.
+I have recently graduated in Physics BSc from [USP](https://usp.br) and I am a research intern at the [IPEN/CNEN](https://www.ipen.br). Currently working with computational modeling, simulation and data visualization in the radioactive waste management industry.
 
 <img src='images/usp.jpg'/>
 
