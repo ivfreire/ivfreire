@@ -1,9 +1,7 @@
 # Hey there 👋️
 
-I am a MSc student at [IPEN/CNEN](https://www.ipen.br). Currently working with computational modeling and software developement in the radioactive waste management industry.
+I am a physicist and software developer based in São Paulo, Brazil. Currently, I am pursuing an MSc. degree in Nuclear Technology, where I focus on developing computer graphics applications for modeling and visualization of repositories for the disposal of radioactive waste. Additionally, I work as a junior back-end developer in the renewable energy generation industry sector.
 
-<img src='images/usp.jpg'/>
+## 
 
-##
-
-- 🔭️ Thanks for visiting!
+- Thanks for visiting!
