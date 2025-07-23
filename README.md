@@ -11,7 +11,12 @@ Contributing to Brazil's leading meteorological consulting company for renewable
 - **Cloud:** GCP (Cloud Run, Cloud Functions, Pub/Sub, BigQuery, Vertex AI).
 - **Other:** GitHub Actions, Workload Identity Federation, Real-Time APIs.
 
+##
+
+![ivfreire's Stats](https://github-readme-stats.vercel.app/api?username=ivfreire&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![ivfreire's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivfreire&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 ## 📫 Reach out to me at
 
 - [LinkedIn](https://www.linkedin.com/in/ivfreire/)  
-- [GitHub](https://github.com/ivfreire)  
